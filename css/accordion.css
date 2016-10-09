@@ -1,7 +1,10 @@
+.hidden{
+  display: none;
+}
 .accordion-header{
   background: grey;
   cursor: pointer;
 }
 .accordion-body{
-  display: none;
+  padding: 20px 0;
 }
