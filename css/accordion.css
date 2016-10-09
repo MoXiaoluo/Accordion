@@ -1,0 +1,7 @@
+.accordion-header{
+  background: grey;
+  cursor: pointer;
+}
+.accordion-body{
+  display: none;
+}
